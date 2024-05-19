@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "327b093649d55f6f397a8e6e2fff0ba9",
+    "packages": [
+        {
+            "name": "fineuploader/php-traditional-server",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FineUploader/php-traditional-server.git",
+                "reference": "b3b0a2898dc32dcd3742cba7a8db89482a984fcc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FineUploader/php-traditional-server/zipball/b3b0a2898dc32dcd3742cba7a8db89482a984fcc",
+                "reference": "b3b0a2898dc32dcd3742cba7a8db89482a984fcc",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Endpoint handler for Fine Uploader's traditional server requests.",
+            "homepage": "http://fineuploader.com",
+            "support": {
+                "issues": "https://github.com/FineUploader/php-traditional-server/issues",
+                "source": "https://github.com/FineUploader/php-traditional-server/tree/master"
+            },
+            "abandoned": true,
+            "time": "2016-07-08T19:15:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
